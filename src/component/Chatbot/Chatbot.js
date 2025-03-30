@@ -4,7 +4,7 @@ import Groq from 'groq-sdk';
 import chtbot from "./chtbot.jpg";
 
 const groq = new Groq({
-  apiKey: "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",
+  apiKey: process.env.REACT_APP_GROQ_API_KEY,
   dangerouslyAllowBrowser: true,
 });
 
