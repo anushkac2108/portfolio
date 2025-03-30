@@ -2,30 +2,31 @@ const Portfolio_data = [
   {
     id: 1,
     category: "WEB DEVELOPMENT",
-    Link:"https://github.com/anushkac2108/FabFinds",
-    title: "FabFriends",
-    disc: "A shopping website where user can buy and sell their products",
-  }, 
+    Link: "https://github.com/anushkac2108/PDF-Summarizer",
+    title: "ReviewRush",
+    disc: "A multi-PDF query system using Gemini LLM and Pinecone cloud vector database with Retrieval-Augmented Generation (RAG) for precise research analysis.",
+  },
   {
     id: 2,
-    category: "WEB DEVELOPMENT",
-    Link:"https://github.com/anushkac2108/chat_app",
-    title: "chat_app",
-    disc: "A chat application that allows users to communicate in real-time. It includes features such as user authentication, one-on-one and group chats, and message notifications.",
+    category: "DATA SCIENCE",
+    Link: "https://github.com/anushkac2108/Loan-Defaulter-checker",
+    title: "Loan Default Risk Analysis",
+    disc: "Performed EDA on a 48,000+ loan application dataset, visualized key risk patterns, and developed a Random Forest model achieving 91% accuracy.",
   },
   {
     id: 3,
-    category: "WEB DEVELOPMENT",
-    Link:"https://github.com/anushkac2108/codeforces-contest-rating",
-    title: "codeforces-contest-rating",
-    disc: "A web application that provides a platform for users to track their Codeforces contest ratings. It includes features such as user authentication, contest history, and rating predictions.",
+    category: "DATA SCIENCE",
+    Link: "https://github.com/anushkac2108/data-analysis",
+    title: "World Population Data Analysis",
+    disc: "Employed Python libraries like NumPy and Pandas for data cleaning and Seaborn & Matplotlib for visualization.",
   },
   {
     id: 4,
     category: "WEB DEVELOPMENT",
-    Link:"https://github.com/anushkac2108/elite-edge-fitness",
-    title: "elite-edge-fitnesselite-edge-fitness",
-    disc: "A fitness website that provides a platform for users to track their workouts, nutrition, and progress. It includes features such as workout plans, meal tracking, and progress tracking.",
-  },
-]
-export default Portfolio_data
+    Link: "https://github.com/anushkac2108/Hospital-Management",
+    title: "Zee-Care",
+    disc: "A Medical Management system built with Node.js, Express.js, and MongoDB, allowing patients to request appointments and track doctor visits.",
+  }
+];
+
+export default Portfolio_data;

@@ -40,7 +40,7 @@ const Header = () => {
                 <a href='#contact'>contact</a>
               </li>
               <li>
-                <a href="https://drive.google.com/file/d/1F0DZDyx9X9tZLa1W1vFaBKRztdBNqm4c/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1Ge6yc851gFKr10rX5aOuvbJMmkjaCE6R/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                    <button className='home-btn'>Resume</button>
                 </a>
               </li>
